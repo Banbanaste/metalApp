@@ -1,0 +1,33 @@
+form {
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 20px;
+  width: 350px;
+  background-color: rgb(255, 255, 255);
+}
+
+form .mainSelect {
+  width: 100%;
+  margin: 15px 0;
+}
+
+form p {
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgb(230, 230, 230);
+}
+
+form p input {
+  text-align: right;
+  border-radius: 5px;
+}
+
+form select {
+}
+
+#weightType {
+  margin: 0 0 0 20px;
+  width: 70px;
+}
